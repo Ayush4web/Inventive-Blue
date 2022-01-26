@@ -800,6 +800,15 @@ section.no-bg, #content.no-bg{
 	position:absolute;
 	z-index:0;
 }
+/*-----contact----*/
+.btn.btn-success {
+    background: -webkit-gradient(linear, left top, right top, from(#2dd6b7), to(#58dec6));
+    background: linear-gradient(to right, #2dd6b7 0%, #58dec6 100%);
+    border: none;
+    color: #fff;
+    -webkit-box-shadow: 0 4px 20px rgb(45 214 183 / 15%);
+    box-shadow: 0 4px 20px rgb(45 214 183 / 15%);
+}
 
 /* ================================================== */
 
